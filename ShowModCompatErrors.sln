@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowModCompatErrorsNF", "ShowModCompatErrorsNF\ShowModCompatErrorsNF.csproj", "{F2A8997E-B262-41EC-8E4C-B45AC62C3F4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarmonyForSINC", "HarmonyForSINC\HarmonyForSINC.csproj", "{20F1EB25-1084-4C3B-84E7-1A5EAE699C8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2A8997E-B262-41EC-8E4C-B45AC62C3F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A8997E-B262-41EC-8E4C-B45AC62C3F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A8997E-B262-41EC-8E4C-B45AC62C3F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A8997E-B262-41EC-8E4C-B45AC62C3F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20F1EB25-1084-4C3B-84E7-1A5EAE699C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F1EB25-1084-4C3B-84E7-1A5EAE699C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F1EB25-1084-4C3B-84E7-1A5EAE699C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F1EB25-1084-4C3B-84E7-1A5EAE699C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FACC69D5-43D9-41A6-AA54-BAD5870E9C0B}
+	EndGlobalSection
+EndGlobal
